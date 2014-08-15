@@ -3,10 +3,15 @@ Controller Configurations for Nintendont
 File/Controller							Author
 PS2								crediar
 PS3								crediar
+F310								samomegasam
 F510								crediar
+Logitech Dual Action						Oak
+Saitek P2500							armac911
+VID 0F30 / PID 0111 (generic)					Nano
+Thrustmaster Dual Analog 4					Nastys
 Trio Linker v1 (GC, DC, PS)					DRaGMaRe
 Wii CC USB (MayFlash Wii Classic Controller to USB)*		Nano
 Wii CC Pro USB (MayFlash Wii Classic Conroller Pro to USB)*	wangtang32000
-Wii U Pro USB (MayFlash Wii U Pro Controller to USB)		iwantpizza
+Wii U Pro USB (MayFlash Wii U Pro Controller to USB)		iwantpizza / mngunnut
 
 * unlike the name suggests, both adapters support the pro classic controller
